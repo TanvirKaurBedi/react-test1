@@ -1,0 +1,17 @@
+.card{
+    min-height: 200px;
+    width: 200px;
+    background-color: grey;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.title{
+    font-size: 16px;
+}
+
+.rate{
+    font-size: 12px;
+}

@@ -1,0 +1,30 @@
+.container {
+    background-color: #000;
+    border: 2px solid #fff;
+    height: 100%;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header{
+  border: 2px solid #fff;
+padding: 10px;
+width: 100%;
+text-align: center;
+margin-bottom:10px;
+}
+.cardSectionContainer{
+    display: flex;
+    align-items: center;
+}
+.cardSection{
+  text-align: center;
+  border: 2px solid #fff;
+  height: 100%;
+  width: 100%;
+}
+.cardSectionTitle{
+    color: #fff;
+    font-size: 18px;
+}
